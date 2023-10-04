@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21526691744",
+    "project_id": "cycloproject-c1d03",
+    "storage_bucket": "cycloproject-c1d03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21526691744:android:00ef2d24e2f11c32186ec5",
+        "android_client_info": {
+          "package_name": "com.example.cycloproject_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21526691744-5n9adt75u7p67o81no0o8epcq9rlijjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKebwFr5ZgAs-KImfSqMAB7z_jjKtYPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21526691744-5n9adt75u7p67o81no0o8epcq9rlijjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
